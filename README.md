@@ -57,5 +57,4 @@ This project is an IoT-based system designed to automate nutrient delivery and s
 **Social Media**
 
 - Follow my work on:
-    - Instagram: [https://www.instagram.com/becauseofthem/reel/C7AYDGbOE3N/](https://www.instagram.com/becauseofthem/reel/C7AYDGbOE3N/)
-    - Facebook: [https://m.facebook.com/groups/1478535869139825/posts/3675905252736198/](https://m.facebook.com/groups/1478535869139825/posts/3675905252736198/)
+    - Facebook: [https://m.facebook.com/groups/1478535869139825/posts/3675905252736198/]([https://m.facebook.com/groups/1478535869139825/posts/3675905252736198/](https://www.facebook.com/munkhatiwada))
